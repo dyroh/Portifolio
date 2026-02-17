@@ -62,3 +62,18 @@ p {
 a:hover {
 color: white;
 }
+.content1 , ul {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 800px;
+}
+ol {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 800px;
+}
+.span {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 800px;
+}
